@@ -1,0 +1,3 @@
+[submodule "src/_proto"]
+	path = src/_proto
+	url = git@github.com:PiyushJZ/_proto.git
